@@ -15,6 +15,13 @@
       "duration": 22,
       "tabReloadIntervalSeconds": 3600
     },
+
+   {
+      "url": "https://github.com/UnimedAssis/BI_UNIMED_ASSIS/blob/main/IMG2.jpeg?raw=true",
+      "duration": 2,
+      "tabReloadIntervalSeconds": 3600
+    },
+
     {
       "url": "https://app.powerbi.com/groups/33b178e0-b139-4350-9408-6a479a43dbcb/reports/bcdbf442-5d80-464a-baf4-0730ab52bd47/ReportSection8a6982e000ee832dc18e?chromeless=true",
       "duration": 22,
